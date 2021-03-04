@@ -77,8 +77,12 @@ footer {
         width: 100%;
     }
     h1 {
-        font-size: 100%;
+        font-size: 48px;
     }
     p {
-        font-size: 100%;
-    }}
+        font-size: 18px;
+    }
+    .not {
+        font-size: 12px;
+    }
+}
