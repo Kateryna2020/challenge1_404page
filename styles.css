@@ -76,4 +76,9 @@ footer {
     .texts {
         width: 100%;
     }
-}
+    h1 {
+        font-size: 100%;
+    }
+    p {
+        font-size: 100%;
+    }}
