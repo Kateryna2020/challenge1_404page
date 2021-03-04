@@ -83,6 +83,10 @@ footer {
         font-size: 18px;
     }
     .not {
-        font-size: 12px;
+        font-size: 18px;
+    }
+    .notfound {
+        margin-top: 20px;
+        margin-left: 35px;
     }
 }
