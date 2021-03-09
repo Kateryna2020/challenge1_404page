@@ -95,3 +95,8 @@ footer {
         margin-left: 0px;
     }
 }
+#anim {
+    
+    animation-name: humburger;
+    animation-duration: 2s;
+}
